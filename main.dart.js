@@ -64420,7 +64420,7 @@ Yp(){this.ar(new A.a9_(this))},
 P(a){var s,r,q=this,p=null,o=A.ti(A.R3(p,p,p,p,p,p),1),n=A.ti(A.Be(A.db("A Quick Quiz",A.e7(p,p,p,p,p,p,p,p,p,p,p,p,p,p,B.c6,p,p,!0,p,p,p,p,p,p,p,p)),p,p),2),m=q.z?""+(q.x+1)+"/3":"",l=t.F
 m=A.aiW(A.c([o,n,A.ti(new A.jC(B.f_,p,p,A.db(m,A.e7(p,p,p,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),p),1)],l),B.c4,B.cc)
 if(!q.z){s=new A.c7(B.l,2,B.K,-1)
-o=A.QZ(A.c([A.R3(A.db("Welcome to the quiz! You will be asked a series of questions. Select the correct answer from the options provided. At the end, you will see your score and whether you passed or failed.",A.e7(p,p,p,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),new A.eh(p,p,new A.cI(s,s,s,s),p,p,p,B.bf),p,p,new A.b3(16,16,16,16),p),A.a2I(p,20,p),A.ahn(A.db("Sign in with Microsoft & Start Quiz",p),q.gZn())],l),B.bh,B.aS,B.cc)}else{o=q.x
+o=A.QZ(A.c([A.R3(A.db("Welcome to the quiz! Sign in to begin.",A.e7(p,p,p,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),new A.eh(p,p,new A.cI(s,s,s,s),p,p,p,B.bf),p,p,new A.b3(16,16,16,16),p),A.a2I(p,20,p),A.ahn(A.db("Sign in with Microsoft & Start Quiz",p),q.gZn())],l),B.bh,B.aS,B.cc)}else{o=q.x
 if(o<2){n=q.as
 o=A.c([A.db(A.c6(n[o].i(0,"question")),A.e7(p,p,p,p,p,p,p,p,p,p,p,20,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)),A.a2I(p,20,p)],l)
 n=t.yp.a(n[q.x].i(0,"options"))
