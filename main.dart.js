@@ -58026,7 +58026,7 @@ A.agN(new A.a4r(this,s/4*100),r,t.z)},
 CX(){this.aJ(new A.a4l(this))},
 S(a){var s,r,q,p=this,o=null,n=A.a8h(A.Oc(o,o,o,o,o,o),1),m=A.a8h(A.NJ(A.hD("A Quick Quiz",A.fa(o,o,o,o,o,o,o,o,o,o,o,o,o,o,B.bN,o,o,!0,o,o,o,o,o,o,o,o)),o,o),2),l=p.f?""+(p.d+1)+"/4":"",k=t.c
 l=A.adI(A.b([n,m,A.a8h(new A.i0(B.hP,o,o,A.hD(l,A.fa(o,o,o,o,o,o,o,o,o,o,o,16,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),o),1)],k),B.bL,B.aO,B.cI)
-n=A.Oc(o,new A.eO(o,new A.ng(new A.n_("Images/microsoft-logo.png",o,o),B.v1),o,o,o,o,B.aZ),o,o,o,o)
+n=A.Oc(o,new A.eO(o,new A.ng(new A.n_("assets/images/microsoft-logo.png",o,o),B.v1),o,o,o,o,B.aZ),o,o,o,o)
 if(p.f){m=p.r
 s=A.b([A.hD(A.bP(m[p.d].k(0,"question")),A.fa(o,o,B.j,o,o,o,o,o,o,o,o,20,o,o,B.x,o,o,!0,o,o,o,o,o,o,o,o)),A.DW(o,20,o)],k)
 m=t.E4.a(m[p.d].k(0,"options"))
@@ -58035,7 +58035,7 @@ B.b.J(s,A.a3(new A.aq(m,new A.a4u(p),r),!0,r.h("aA.E")))
 s.push(A.DW(o,80,o))
 s=A.a7T(s,B.bd,B.aO,B.cI)
 m=s}else{q=new A.c6(B.j,2,B.L,-1)
-m=A.a7T(A.b([A.Oc(A.hD("Welcome to the quiz! You will be asked a series of questions. Select the correct answer from the options provided. At the end, you will see your score and whether you passed or failed.",A.fa(o,o,B.j,o,o,o,o,o,o,o,o,16,o,o,B.bN,o,o,!0,o,o,o,o,o,o,o,o)),new A.eO(o,o,new A.cM(q,q,q,q),o,o,o,B.aZ),o,o,new A.aU(16,16,16,16),o),A.DW(o,20,o),A.acb(A.hD("Start Quiz",o),p.gTN()),A.DW(o,80,o)],k),B.bd,B.aO,B.cI)}return new A.ul(new A.q0(l,B.Cx,new A.IR(o,o,1/0,56),o),A.a_2(B.eG,A.b([n,new A.e8(B.ya,m,o),new A.i0(B.hO,o,o,new A.e8(B.yc,A.adI(A.b([A.acx("Images/mslogo.png",50),A.acx("Images/CTSlogo.png",50)],k),B.bL,B.fO,B.cI),o),o)],k),B.Gq),o)}}
+m=A.a7T(A.b([A.Oc(A.hD("Welcome to the quiz! You will be asked a series of questions. Select the correct answer from the options provided. At the end, you will see your score and whether you passed or failed.",A.fa(o,o,B.j,o,o,o,o,o,o,o,o,16,o,o,B.bN,o,o,!0,o,o,o,o,o,o,o,o)),new A.eO(o,o,new A.cM(q,q,q,q),o,o,o,B.aZ),o,o,new A.aU(16,16,16,16),o),A.DW(o,20,o),A.acb(A.hD("Start Quiz",o),p.gTN()),A.DW(o,80,o)],k),B.bd,B.aO,B.cI)}return new A.ul(new A.q0(l,B.Cx,new A.IR(o,o,1/0,56),o),A.a_2(B.eG,A.b([n,new A.e8(B.ya,m,o),new A.i0(B.hO,o,o,new A.e8(B.yc,A.adI(A.b([A.acx("assets/images/mslogo.png",50),A.acx("assets/images/CTSlogo.png",50)],k),B.bL,B.fO,B.cI),o),o)],k),B.Gq),o)}}
 A.a4s.prototype={
 $0(){this.a.f=!0},
 $S:0}
